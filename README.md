@@ -1,4 +1,4 @@
-🏠-------------------------------------------------------Dormitory Management System-------------------------------------------------------
+🏠-----Dormitory Management System-----
 
 This project was developed as part of the Software Engineering course in the Master’s program in Digital Engineering.
 
@@ -14,7 +14,7 @@ Code reusability
 
 Maintainability
 
-📌-------------------------------------------------------roject Overview-------------------------------------------------------
+📌-----Project Overview-----
 
 The Dormitory Management System is designed to manage students, rooms, and administrative operations in a dormitory.
 
@@ -32,7 +32,7 @@ Administrative record handling
 
 The project demonstrates how real-world dormitory operations can be translated into structured software components.
 
-🏗️ -------------------------------------------------------System Architecture-------------------------------------------------------
+🏗️ -----System Architecture-----
 
 The system follows a modular and object-oriented design.
 
@@ -66,7 +66,7 @@ Handles check-in/check-out operations
 
 Maintains overall dormitory records
 
-⚙️ -------------------------------------------------------How the Code Works-------------------------------------------------------
+⚙️ -----How the Code Works-----
 
 1️⃣ Object-Oriented Structure
 
@@ -130,7 +130,7 @@ Maintain current dormitory state
 
 This ensures fast lookups and consistent data handling.
 
-🛠️ -------------------------------------------------------Technologies Used-------------------------------------------------------
+🛠️ -----Technologies Used-----
 
 Programming Language: (Specify here — Python / Java / etc.)
 
